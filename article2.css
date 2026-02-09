@@ -1,0 +1,175 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.block2{
+display: flex;
+width: 100%;
+height: 100%;
+flex-direction: column;
+}
+
+img {
+width: 100%;
+}
+
+.petit {
+        position: relative;
+    width: 100%;
+    left: 2%;
+    top: -5%;
+     font-size: 20px;
+}
+
+.petit {
+    position: relative;
+    width: 100%;
+    left: 2%;
+    top: 0%;
+}
+.petit1 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.petit1,
+.petit2{
+    font-family:'Poppins' ;
+}
+.article1{
+    position: relative;
+    left: 2%;
+    display: flex;
+    flex-direction: column;
+    top: 5%;
+}
+.img1{
+    width: 60%;
+}
+
+.text {
+    font-family: 'Poppins';
+    
+}
+
+.article2 {
+    position: relative;
+   display: flex;
+   flex-direction: column;
+   gap: 25px;
+   top: 8%;
+   left: 2%;
+}
+
+.text2{
+    font-family: 'Anton';
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+}
+
+.text3{
+    font-family: 'Poppins';
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.article3 {
+    position: relative;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   top: 8%;
+   left: 2%;
+}
+
+.text6,
+.text8{
+    font-family: 'Anton';
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+}
+
+.text7{
+    font-family: 'Poppins';
+}
+
+.article4{
+    position: relative;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   top: 10%;
+   left: 2%;
+}
+
+.text4{
+    font-family: 'Anton';
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+}
+
+.text5 {
+        font-family: 'Poppins';
+}
+
+video {
+    width: 100%;
+}
+
+.text9 {
+    position: relative;
+     font-family: 'Anton';
+    font-weight: bold;
+    font-size: 20px;
+    width: 100%;
+}
+
+.article5{
+    position: relative;
+   display: flex;
+   flex-direction: column;
+   gap: 10px;
+   top: 10%;
+   left: 2%;
+}
+.img3 {
+    border-radius: 20px;
+    width: 100%;
+}
+@media (min-width: 600px)
+{
+    .article1 {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    flex-direction: row;
+    gap: 30px;
+    top: 2%
+}
+.img1{
+width: 25%;
+}
+
+.text {
+    position: relative;
+    left: 2%;
+    width: 60%;
+    font-family: 'Poppins';
+    font-size: 20px;
+ 
+}
+
+.dessin {
+    width: 70%;
+}
+}
+

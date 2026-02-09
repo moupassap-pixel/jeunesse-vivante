@@ -1,0 +1,93 @@
+html,body {
+    display: flex;
+    width: 100%;
+    background : #f3f0ff;
+    margin: 0;
+}
+
+.block4 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+
+}
+
+.partie1 {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    position: fixed;
+    width: 100vw;
+    text-align: center;
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 12px;
+    width: 100%;
+    font-family: 'Poppins';
+    
+}
+
+.petit1 {
+    font-family:'Open Sans' ;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.petit2 {
+    font-weight: 'Poppins';
+    font-weight: bold;
+}
+
+img {
+width: 60%;
+height: 60%;
+}
+
+.img2 {
+    width: 96%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.partie2{
+    position: relative;
+    top: 38%;
+    left: 2%;
+    
+}
+
+.partie3{
+    position: relative;
+    top: 40%;
+    left: 2%;
+    
+}
+
+.img3 {
+    width: 96%;
+    height: 80%;
+    border-radius: 30px;
+}
+
+.img4 {
+    width: 96%;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.partie4{
+    position: relative;
+    top: 37%;
+    left: 2%;
+    
+}
