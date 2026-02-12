@@ -20,13 +20,6 @@ Ce site est un projet réalisé en **HTML et CSS**, entièrement **responsive** 
 
 ---
 
-## Licence
-
-Ce projet est sous **Licence MIT**.  
-Le code est protégé, mais peut être utilisé selon les conditions de la licence. Voir le fichier [LICENSE](LICENSE) pour plus d’informations.
-
----
-
 ## Auteur
 
 **Paul Moupassa**
