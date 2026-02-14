@@ -164,8 +164,23 @@ video {
 
 }
 
-@media (max-width:350px) {
-   .block {
-display: none;
+@media (max-width:496px) {
+ 
+.article1 {
+    position: relative;
+    left: 2%;
+    top: -3%;
+    width: 100%;
+    font-size: 20px;
+}
+    
+ 
+    .petit {
+        position: relative;
+    width: 90%;
+    left: 2%;
+    top: -6%;
+     font-size: 20px;
 }
 }
+
