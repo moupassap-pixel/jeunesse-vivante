@@ -32,7 +32,7 @@ html,body {
 }
 
 .ligne2 a {
-    
+    text-decoration: none;
     color: black;
 }
 
