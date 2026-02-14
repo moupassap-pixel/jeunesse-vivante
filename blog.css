@@ -31,6 +31,11 @@ html,body {
       color: black;
 }
 
+.ligne2 a {
+    text-decoration: none;
+    color: black;
+}
+
 .item{
         display: flex;
     position: absolute;
@@ -157,4 +162,5 @@ height: 100%;
         gap: 15px;
     }
 }
+
 
