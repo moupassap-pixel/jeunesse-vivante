@@ -32,7 +32,7 @@ html,body {
 }
 
 .ligne2 a {
-    text-decoration: none;
+    
     color: black;
 }
 
@@ -162,5 +162,6 @@ height: 100%;
         gap: 15px;
     }
 }
+
 
 
