@@ -90,11 +90,10 @@ li a {
 }
 
 @media (max-width: 360px) {
-  .sidebar {
-    display: none;
-  }
 
-  .small-screen {
-    display: block;
-  }
+.text{
+  position: absolute;
+  top: 13%;
 }
+}
+
