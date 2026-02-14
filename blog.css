@@ -138,10 +138,20 @@ height: 100%;
     font-weight: bold;
 }
 
-
 @media (min-width:768px) {
     .ligne2 {
-        top: 10%;
+        top: 20%;
         font-family: 'inter';
+        font-size: 25px;
+        gap: 25px;
+    }
+}
+
+@media (max-width:496px) {
+      .ligne2 {
+        top: 21%;
+        font-family: 'inter';
+        font-size: 15px;
+        gap: 15px;
     }
 }
